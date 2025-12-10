@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate AI-ML student exploring how intelligent systems and cinematography can create meaningful, inspiring stories.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicks1107&label=Profile%20views&color=0e75b6&style=flat" alt="nicks1107" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niks1107&label=Profile%20views&color=0e75b6&style=flat" alt="niks1107" /> </p>
 
 - 🔭 I’m currently working on [EverTrack](https://github.com/niks1107/EverTrack)
 
@@ -33,4 +33,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nickneverlose"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nickneverlose" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicks1107&" alt="nicks1107" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niks1107&" alt="niks1107" /></p>
